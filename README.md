@@ -13,6 +13,7 @@ em um Clone do site da Netflix, com várias funcionalidades identicas ao site or
 - React
 - CSS
 - Git
+- HTML
 
 ## Como Contibuir
 
